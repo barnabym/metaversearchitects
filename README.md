@@ -1,6 +1,8 @@
 # metaversearchitects
 
-Planet VR https://twitter.com/planetvr_uk
+https://metaverse-architects.com/
+
+P0lanet VR https://twitter.com/planetvr_uk
 
 Voxel Architects 
 
