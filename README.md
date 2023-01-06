@@ -19,6 +19,12 @@ swissdcl (on Twitter) (pre-made)
 
 @BoomboxHead
 
+XR passthrough examples
 
+https://castle.needle.tools/
+
+https://immersive-web.github.io/webxr-samples/
+
+https://spatialfusion.io
 
 
