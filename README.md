@@ -2,7 +2,6 @@
 
 https://metaverse-architects.com/
 
-
 Planet VR https://twitter.com/planetvr_uk
 
 Voxel Architects 
